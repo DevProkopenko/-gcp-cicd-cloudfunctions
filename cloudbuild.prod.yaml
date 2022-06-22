@@ -25,7 +25,7 @@ steps:
   id: DEPLOY
 
 substitutions:
-    _FUNCTION_PROJECT : prod-354111
+    _FUNCTION_PROJECT : prod-№
     _FUNCTION_NAME    : my-nodejs-app
     _FUNCTION_REGION  : europe-central2
     _FUNCTION_RUNTIME : nodejs16
