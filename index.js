@@ -1,6 +1,6 @@
 //-----------------------------------------------------------------------------
 // NodeJS App for GCP Cloud Functions deployed via GCP Cloud Build Triggers
-// Copyleft (c) by Denis Astahov
+// Copyleft (c) by Pro Art
 //-----------------------------------------------------------------------------
 
 exports.helloWorld = (req, res) => {
